@@ -35,8 +35,8 @@ print('''
        $$$$b           .$$$$$$$$$$$$$$$$r
           $$$.        .$$$$$$$$$$$$$$$$$$
            $$$c      .$$$$$$$  "$$$$$$$$$r
-Author   : Falah
-snapchat : flaah999
+Kod Sahibi   : SakirBey
+Telegram : @SakirBey1
 depend on vpn. Please use it before running the tool or providing a proxy file           """"""""""""""""""""""""""""""""""""""""""
 ''')
 
